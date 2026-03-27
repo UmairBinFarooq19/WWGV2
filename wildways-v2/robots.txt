@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.wildwaysglobal.com/sitemap.xml
+
+# Block admin / temp files
+Disallow: /wp-admin/
+Disallow: /*.tmp

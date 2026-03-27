@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- HOMEPAGE -->
+  <url><loc>https://www.wildwaysglobal.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- MAIN SERVICE PAGES -->
+  <url><loc>https://www.wildwaysglobal.com/kashmir-tour-package/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-great-lakes-trek/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/gulmarg-tour-package/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-honeymoon-package/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/pahalgam-tour-package/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/sonmarg-tour-package/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/srinagar-tour-package/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-trekking-package/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-skiing/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/gulmarg-gondola-booking/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-taxi-booking/</loc><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/srinagar-to-gulmarg-taxi/</loc><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-adventure-tour/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-camping-tour/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-trip-cost/</loc><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-itinerary/</loc><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/kashmir-hotels/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/contact/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- BLOG INDEX -->
+  <url><loc>https://www.wildwaysglobal.com/blog/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+
+  <!-- BLOG POSTS -->
+  <url><loc>https://www.wildwaysglobal.com/blog/kashmir-great-lakes-trek-guide/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/best-time-to-visit-kashmir/</loc><changefreq>monthly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/kashmir-itinerary-7-days/</loc><changefreq>monthly</changefreq><priority>0.87</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/kashmir-trip-cost-guide/</loc><changefreq>monthly</changefreq><priority>0.87</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/gulmarg-gondola-price/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/kashmir-in-winter/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/is-kashmir-safe/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+
+</urlset>
